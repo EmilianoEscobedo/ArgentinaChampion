@@ -7,7 +7,7 @@
     "description": "Para continuar celebrando el triunfo de Argentina en la Copa del Mundo, cambia el 3 por tres estrellas y el 2 por Francia",
     "homepage_url": "https://github.com/Ivanknop/argentinaChampionWebExtension",
     "icons": {
-      "48": "icons/tres_estrellas.png"
+      "48": "tres_estrellas.png"
     },
   
     "permissions": [
@@ -15,12 +15,19 @@
     ],
   
     "browser_action": {
-      "default_icon": "icons/tres_estrellas.png",
+      "default_icon": "tres_estrellas.png",
       "default_title": "Argentina Champion"
     },
   
     "web_accessible_resources": [
-      "stars/tres_estrellas.jpg"
+      "tres_estrellas.jpg"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
     ]
-  
   }
+
+  
