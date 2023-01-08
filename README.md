@@ -5,7 +5,7 @@ Esta extensión modifica automáticamente de cualquier web lo siguiente:
 
 - segundo por segundo (Francia);
 - Segundo por Segundo (Francia);
-- 2023 por 2023⭐⭐⭐ ;
+- 2023 por 202⭐⭐⭐ ;
 - Francia por Francia (2°).
 
 
