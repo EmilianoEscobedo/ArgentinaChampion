@@ -1,6 +1,5 @@
-# Argentina Campeón del Mundo
-
-## Extensión para Firefox y Chrome festejando el triunfo de Argentina en la Copa del Mundo
+# :argentina: :trophy: Argentina Campeón del Mundo 
+### Extensión para Firefox y Chrome festejando el triunfo de Argentina en la Copa del Mundo
 Esta extensión modifica automáticamente de cualquier web lo siguiente:
 
 - segundo por segundo (Francia);
@@ -13,13 +12,14 @@ Esta extensión modifica automáticamente de cualquier web lo siguiente:
 Por el momento no está disponible en la Store de Chrome ni en las Extensiones de Firefox
 
 Se deben descargar los archivos e instalarlas manualmente.
+<br>
 
-## Chrome
-Ir a ```chrome://extensions/``` y seleccionar **Cargar descomprimida**. Luego seleccionar la carpeta que se llama **argentina_champion_chrome**
-
-## Firefox
-Ir a ```about:debugging#/runtime/this-firefox``` y seleccionar **Cargar complemento temporal**. Luego seleccionar el archivo **manifest.json**
-
+- Chrome
+<br>Ir a ```chrome://extensions/``` y seleccionar **Cargar descomprimida**. Luego seleccionar la carpeta que se llama **argentina_champion_chrome**
+<br><br>
+- Firefox
+ <br>Ir a ```about:debugging#/runtime/this-firefox``` y seleccionar **Cargar complemento temporal**. Luego seleccionar el archivo **manifest.json**
+<br><br>
 ## Resultados
 
 ![Image text](https://github.com/Ivanknop/argentinaChampionWebExtension/blob/master/extension1.jpeg)
