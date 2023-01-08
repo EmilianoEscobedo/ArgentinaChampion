@@ -1,0 +1,24 @@
+{
+
+    "manifest_version": 3,
+    "name": "Argentina Champion",
+    "version": "1.0",
+  
+    "description": "Para continuar celebrando el triunfo de Argentina en la Copa del Mundo, cambia el 3 por tres estrellas y la palabra segundo por Francia",
+    "homepage_url": "https://github.com/Ivanknop/argentinaChampionWebExtension",
+    "icons": {
+      "48": "tres_estrellas.png"
+    },
+  
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+
+  
