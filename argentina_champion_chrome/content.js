@@ -7,7 +7,7 @@ const textNodes = document.evaluate(
   );
 for (let i = 0; i < textNodes.snapshotLength; i++) {
       const node = textNodes.snapshotItem(i);    
-      if (node.parentNode.nodeName === "STYLE" || node.parentNode.nodeName === "SCRIPT" || node.parentNode.nodeName === "style"){
+      if (node.parentNode.nodeName === "STYLE" || node.parentNode.nodeName === "style" || node.parentNode.nodeName === "SCRIPT" ){
         continue
       }
       node.nodeValue = node.nodeValue.replace(/Francia/g, 'Francia (2°)');
@@ -15,7 +15,4 @@ for (let i = 0; i < textNodes.snapshotLength; i++) {
       node.nodeValue = node.nodeValue.replace(/Segundo/g, 'Segundo (Francia)');
       node.nodeValue = node.nodeValue.replace(/2023/g, '202⭐⭐⭐');
     }
-
   
-
-    
