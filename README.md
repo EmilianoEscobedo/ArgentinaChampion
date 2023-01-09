@@ -15,7 +15,7 @@ Se deben descargar los archivos e instalarlas manualmente.
 <br>
 
 - Chrome
-<br>Ir a ```chrome://extensions/``` y seleccionar **Cargar descomprimida**. Luego seleccionar la carpeta que se llama **argentina_champion_chrome**
+<br>Ir a ```chrome://extensions/``` , ingresar como **Desarrollador** y ahí seleccionar **Cargar descomprimida**. Luego seleccionar la carpeta que se llama **argentina_champion_chrome**
 <br><br>
 - Firefox
  <br>Ir a ```about:debugging#/runtime/this-firefox``` y seleccionar **Cargar complemento temporal**. Luego seleccionar el archivo **manifest.json**
