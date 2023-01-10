@@ -11,10 +11,9 @@ Esta extensión modifica automáticamente de cualquier web lo siguiente:
 ## Instalación
 
 ### Firefox
- <br>https://addons.mozilla.org/es/firefox/addon/argentina-champion/ <br>
+https://addons.mozilla.org/es/firefox/addon/argentina-champion/ <br>
 ### Chrome
-Por el momento no está disponible en la Store de Chrome así que se deben descargar los archivos e instalarlas manualmente.
-<br>Ir a ```chrome://extensions/``` , ingresar como **Desarrollador** y ahí seleccionar **Cargar descomprimida**. Luego seleccionar la carpeta que se llama **argentina_champion_chrome**
+https://chrome.google.com/webstore/detail/argentina-champion/bijjkadjaipgganffheldilihplagpgp?hl=es&authuser=0
 <br>
 
 <br><br>
